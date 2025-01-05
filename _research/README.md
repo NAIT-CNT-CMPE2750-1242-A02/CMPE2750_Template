@@ -1,2 +1,3 @@
 # CMPE2750_Template
-Use this template when creating your individual private repos.
+
+Save all initial planning documentation here. Also, this is where your .MD for your proposal should be.
