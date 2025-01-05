@@ -1,2 +1,3 @@
 # CMPE2750_Template
-Use this template when creating your individual private repos.
+
+Use this folder to store all relavant datasheets for devices used in your project.
