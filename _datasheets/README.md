@@ -1,3 +1,3 @@
 # Relevant Datasheets
 
-Use this folder to store all relavant datasheets for devices used in your project.
+Use this folder to store all relevant datasheets for devices used in your project.
