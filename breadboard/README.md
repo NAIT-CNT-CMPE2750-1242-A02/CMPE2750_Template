@@ -1,2 +1,3 @@
 # CMPE2750_Template
-Use this template when creating your individual private repos.
+
+All design files for your breadboard version of your project go here.
