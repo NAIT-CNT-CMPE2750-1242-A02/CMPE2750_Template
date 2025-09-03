@@ -27,4 +27,4 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-*.csv
+# *.csv
